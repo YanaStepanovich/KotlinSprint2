@@ -9,4 +9,6 @@ class Main {
     }
 }
 
-private fun Array.joinToString(): String {}
+private fun Array.joinToString(): String {
+    TODO("Not yet implemented")
+}
